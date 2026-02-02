@@ -1,0 +1,66 @@
+{
+  "title": "Kung Pao Chicken",
+  "description": "Spicy Sichuan-style chicken stir-fry with peanuts and vegetables.",
+  "instructions": "1. Cut chicken into bite-sized cubes and marinate with soy sauce, rice wine, and cornstarch for 15 minutes.\n2. Prepare the sauce: mix soy sauce, rice vinegar, sugar, and cornstarch.\n3. Heat oil in wok over high heat.\n4. Stir-fry chicken until just cooked, then remove.\n5. Add dried chilies and Sichuan peppercorns to the wok, fry until fragrant.\n6. Add bell peppers and onions, stir-fry for 2 minutes.\n7. Return chicken to wok, add sauce and peanuts.\n8. Toss everything together until sauce thickens.\n9. Serve immediately with rice.",
+  "prepTime": 20,
+  "cookTime": 10,
+  "servings": 4,
+  "ingredients": [
+    {
+      "name": "Chicken breast, cubed",
+      "quantity": "500",
+      "unit": "g"
+    },
+    {
+      "name": "Roasted peanuts",
+      "quantity": "100",
+      "unit": "g"
+    },
+    {
+      "name": "Dried red chilies",
+      "quantity": "8",
+      "unit": "Stück"
+    },
+    {
+      "name": "Sichuan peppercorns",
+      "quantity": "1",
+      "unit": "TL"
+    },
+    {
+      "name": "Bell peppers, diced",
+      "quantity": "2",
+      "unit": "Stück"
+    },
+    {
+      "name": "Onion, diced",
+      "quantity": "1",
+      "unit": "Stück"
+    },
+    {
+      "name": "Soy sauce",
+      "quantity": "3",
+      "unit": "EL"
+    },
+    {
+      "name": "Rice vinegar",
+      "quantity": "2",
+      "unit": "EL"
+    },
+    {
+      "name": "Sugar",
+      "quantity": "1",
+      "unit": "EL"
+    },
+    {
+      "name": "Cornstarch",
+      "quantity": "1",
+      "unit": "TL"
+    },
+    {
+      "name": "Vegetable oil",
+      "quantity": "3",
+      "unit": "EL"
+    }
+  ],
+  "tags": ["Chinesisch", "Fleisch", "Scharf", "Schnell", "Wok"]
+}

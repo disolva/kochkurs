@@ -1,0 +1,51 @@
+{
+  "title": "Gebratener Reis mit Gemüse",
+  "description": "Ein klassisches chinesisches Gericht, einfach und schnell zubereitet.",
+  "instructions": "1. Den Reis vom Vortag verwenden oder frischen Reis kochen und abkühlen lassen.\n2. Das Gemüse waschen und klein schneiden.\n3. Öl in einem Wok oder großer Pfanne erhitzen.\n4. Die Eier verquirlen und im Wok zu Rührei verarbeiten, dann herausnehmen.\n5. Gemüse im Wok anbraten, bis es bissfest ist.\n6. Reis hinzufügen und gut durchbraten.\n7. Rührei wieder hinzufügen.\n8. Mit Sojasauce und Sesamöl würzen.\n9. Mit Frühlingszwiebeln garnieren und servieren.",
+  "prepTime": 15,
+  "cookTime": 10,
+  "servings": 4,
+  "ingredients": [
+    {
+      "name": "Gekochter Reis (vom Vortag)",
+      "quantity": "400",
+      "unit": "g"
+    },
+    {
+      "name": "Eier",
+      "quantity": "2",
+      "unit": "Stück"
+    },
+    {
+      "name": "Karotten",
+      "quantity": "2",
+      "unit": "Stück"
+    },
+    {
+      "name": "Erbsen",
+      "quantity": "100",
+      "unit": "g"
+    },
+    {
+      "name": "Frühlingszwiebeln",
+      "quantity": "3",
+      "unit": "Stück"
+    },
+    {
+      "name": "Sojasauce",
+      "quantity": "3",
+      "unit": "EL"
+    },
+    {
+      "name": "Sesamöl",
+      "quantity": "1",
+      "unit": "TL"
+    },
+    {
+      "name": "Pflanzenöl",
+      "quantity": "2",
+      "unit": "EL"
+    }
+  ],
+  "tags": ["Chinesisch", "Vegetarisch", "Reis", "Schnell"]
+}

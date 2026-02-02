@@ -1,0 +1,61 @@
+{
+  "title": "Schweinebraten mit Knödeln",
+  "description": "Klassischer deutscher Schweinebraten mit knuspriger Kruste und Semmelknödeln.",
+  "instructions": "1. Den Schweinebraten mit Salz, Pfeffer und Kümmel einreiben.\n2. Die Schwarte rautenförmig einschneiden.\n3. Braten im vorgeheizten Ofen bei 200°C für 20 Minuten scharf anbraten.\n4. Zwiebeln und Karotten zum Braten geben.\n5. Mit Bier ablöschen und bei 160°C weitere 1,5-2 Stunden garen.\n6. Regelmäßig mit Bratensaft begießen.\n7. Für die Knödel altbackene Brötchen würfeln.\n8. Mit warmer Milch übergießen und ziehen lassen.\n9. Zwiebeln in Butter andünsten und zu den Brötchen geben.\n10. Mit Eiern, Salz und Muskat würzen und vermengen.\n11. Knödel formen und in Salzwasser 15-20 Minuten ziehen lassen.\n12. Den Braten ruhen lassen, die Sauce passieren und abschmecken.\n13. Mit Knödeln und Rotkraut servieren.",
+  "prepTime": 30,
+  "cookTime": 140,
+  "servings": 6,
+  "ingredients": [
+    {
+      "name": "Schweineschulter oder Nacken",
+      "quantity": "1,5",
+      "unit": "kg"
+    },
+    {
+      "name": "Zwiebeln",
+      "quantity": "2",
+      "unit": "Stück"
+    },
+    {
+      "name": "Karotten",
+      "quantity": "2",
+      "unit": "Stück"
+    },
+    {
+      "name": "Dunkles Bier",
+      "quantity": "500",
+      "unit": "ml"
+    },
+    {
+      "name": "Kümmel",
+      "quantity": "1",
+      "unit": "TL"
+    },
+    {
+      "name": "Altbackene Brötchen",
+      "quantity": "6",
+      "unit": "Stück"
+    },
+    {
+      "name": "Milch",
+      "quantity": "250",
+      "unit": "ml"
+    },
+    {
+      "name": "Eier",
+      "quantity": "2",
+      "unit": "Stück"
+    },
+    {
+      "name": "Butter",
+      "quantity": "50",
+      "unit": "g"
+    },
+    {
+      "name": "Muskatnuss",
+      "quantity": "1",
+      "unit": "Prise"
+    }
+  ],
+  "tags": ["Deutsch", "Fleisch", "Festlich", "Männerkochkurs"]
+}
